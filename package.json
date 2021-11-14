@@ -1,0 +1,42 @@
+{
+  "name": "@nwire/foundationmacroable",
+  "version": "0.1.0",
+  "description": "Server utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/200-nwire/foundation.git"
+  },
+  "keywords": [
+    "koajs",
+    "server",
+    "nodejs",
+    "api"
+  ],
+  "author": "Alexander Gefter (alexg@200apps.co)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/200-nwire/foundation/issues"
+  },
+  "homepage": "https://github.com/200-nwire/foundation#readme",
+  "dependencies": {
+    "domain-events": "^0.2.0",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-helmet": "^4.2.0",
+    "koa-json-error": "^3.1.2",
+    "koa-jwt": "^3.6.0",
+    "koa-logger": "^3.2.1",
+    "koa-roles": "^2.0.0",
+    "koa2-cors": "^2.0.6",
+    "lodash": "^4.17.15",
+    "node-json-transform": "^1.0.19",
+    "path-to-regexp": "^6.1.0",
+    "querystring": "^0.2.0",
+    "simple-command-bus": "^1.0.7"
+  }
+}

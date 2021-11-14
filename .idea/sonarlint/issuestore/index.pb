@@ -1,0 +1,42 @@
+
+D
+src/swagger/index.js,3/b/3b1a4f193d9e2d036817d67f156981d8ecf883f4
+F
+src/swagger/lib/api.js,6/1/61cc9639101edcbc4d7dd918324fca4dac94f48b
+L
+src/swagger/lib/generator.js,c/e/ce438e4675539dd498a78b227039b7c2bb560b04
+:
+
+src/app.js,7/e/7e2883689d806a5f689579600efd29e430bebf92
+A
+src/rest/query.js,7/2/720855aaeb279435a6cafc30b6fcc98c908e3b9f
+A
+src/rest/index.js,e/4/e4eca4c19f3b8f1c9a21138d7353b49abb0584cc
+@
+src/rest/base.js,6/4/6439aaf484dc1d437d4a573faee585ba85a5d34b
+D
+src/rest/Resource.js,2/a/2ade1d2a96ba3fa53ccc8388630c66cf0bebec83
+B
+src/rest/routes.js,4/b/4b9c0c9f0c9b739956a26e1b7e2e359406d83505
+H
+src/middlewares/roles.js,e/7/e7a30895b2b333ad2dfb4ad958a0b028b46c3aee
+H
+src/middlewares/index.js,4/a/4a25e0426fbc6c496f92835677dcfa1692d481c3
+O
+src/infrastructure/projector.js,4/4/44b12851a373eadab05681b03d389ce3d28d84ec
+P
+ src/infrastructure/repository.js,2/d/2dc774b5acb401e2f24a2578513865f2c78f80c6
+O
+src/infrastructure/shanpshot.js,a/1/a185193243fe31f57578bb8d700089f5ae41ce28
+O
+src/infrastructure/workspace.js,b/9/b93d682e6fc51f05e38b081706d30d0bf8366bb8
+G
+src/domain/aggregate.js,c/2/c27f678a5bb2c28c255bcd519ca6abb515c6feac
+E
+src/domain/balance.js,a/8/a890b76e58dcdea9356b28b3fc93d615569d8570
+F
+src/domain/identity.js,b/e/bef90e007bde5f1787b56a19e84ea1ed86bc386e
+D
+src/domain/ledger.js,4/d/4d432176d1d07ede40a0f2f50092ca1faba10ed0
+G
+src/domain/reference.js,c/a/cad8f7bd5b5f3d8ca6bed15b19724192a9774be1
